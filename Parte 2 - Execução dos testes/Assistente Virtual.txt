@@ -1,0 +1,9 @@
+Assistente virtual:
+
+Ao realizar uma pergunta relacioanada ao tema ela se sai muito respondendo corretamente ao que foi solicitado
+
+Ao não responder conforme o esperado a assistente virtual acaba se confundindo e no fim a resposta final é falar com diretamente
+
+*Pontos de atenção:
+Realmente devemos mostrar a versão da assistente virtual
+Poderia ter um descrição mais atraente, pois atualmente não tem descrição e seria uma boa para o usuário enxergar uma descrição detalhada do que talvez a assistente virtual é ou que ela faz?

@@ -1,0 +1,4 @@
+Foi escopado apenas o blog e suas principais funcionaliades, não sendo aprofundado em tudo que o sistema pode realizar
+
+*Foi apenas uma simples apresentação do sistema
+e uma demonstração do QA sendo apenas bem superficial, não sendo explorado tudo em que um QA pode realizar

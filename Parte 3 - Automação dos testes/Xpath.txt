@@ -1,0 +1,24 @@
+
+
+Validate - Logo:
+//div[@class='et_pb_menu__logo']/a/img
+
+
+Input - Campo pesquisar
+//form/div/input[@type='text']
+
+
+Click - Clicar na Lupa
+//form/div/input[@type='submit']
+
+Wait - Aguardar Pesquisa sobre turismo
+//div[@class='et_pb_code_inner']/a[text()='Cadastre-se']
+
+
+Validate - Validar que existe 5 atigos
+
+((//*[@id='left-area']/article)[1])
+((//*[@id='left-area']/article)[2])
+((//*[@id='left-area']/article)[3])
+((//*[@id='left-area']/article)[4])
+((//*[@id='left-area']/article)[5])
